@@ -1666,6 +1666,15 @@ height: 35px;
     background-size: 100%;
     font-family: 'Montserrat';
 }
+.serv27{
+    text-align: center;
+font: normal normal bold 20px/113px Montserrat;
+letter-spacing: 1.1px;
+color: #1C4043;
+text-transform: uppercase;
+opacity: 1;
+
+}
 
 
 
@@ -3901,7 +3910,7 @@ opacity: 1;
     height:150px ;
     font-size: medium;
     font: bolder;
-    margin-left: 120px;
+    margin-left: 50px;
     margin-top: 40px;
     font-size: 20px;
 
