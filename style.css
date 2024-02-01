@@ -145,6 +145,10 @@
 
 
 }
+.ham_menu_wrapper ul li a{
+    text-decoration: none;
+
+}
 
 .sec5t3 {
     font-size: 17px;
