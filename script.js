@@ -30,3 +30,4 @@ $('#recipeCarousel').carousel({
     // /* product images */
     // $('body.product .banner .thumb').on('click', function(){ $('body.product .banner .full_img img').attr('src', $($(this).children('img')[0]).attr('src')); })
 });
+
